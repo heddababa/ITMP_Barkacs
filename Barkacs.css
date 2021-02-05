@@ -44,24 +44,25 @@ nav a:hover{
 }
 
 /*nem mukodik*/
-/*
 .tartalom {
     font-family: 'Hanalei Fill', cursive;
     text-align: center;
     font-size: 50em; /*hatastalan*/
-   /* background-color: chartreuse;
-    height: 300px;
-  
-}*/  
+    min-height: 100vh;
+}  
 
 .footer {
     background-color:  brown;
     color: lightgoldenrodyellow;
 }
 
+.aktiv {
+    font-size: larger;
+    box-shadow: 0px 0px 5px lightgoldenrodyellow;
+}
+
 h1 {
-    font-family: 'Hanalei Fill', cursive;
-    text-align: center;
     font-size: 6rem;
 }
+
 
