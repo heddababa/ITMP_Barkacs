@@ -1,0 +1,39 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');*/
+
+@import url('https://fonts.googleapis.com/css2?family=Hanalei&display=swap');
+
+body {
+    background-image: url(./kepek/diy-word-tools-assortment.jpg);
+    background-position: center center;    
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+    font-size: x-large;
+}
+
+nav{
+    background-color:  brown;
+    color: lightgoldenrodyellow;
+    padding: 5px;
+    position: fixed;
+}
+
+nav a{
+    color:  lightgoldenrodyellow;
+    margin: 5px;
+}
+
+nav a:hover{
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.banner {
+    
+}
+
+.kartyak {
+
+}
