@@ -1,15 +1,17 @@
-/*@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');*/
-
 @import url('https://fonts.googleapis.com/css2?family=Hanalei&display=swap');
 
 body {
-    background-image: url(./kepek/diy-word-tools-assortment.jpg);
+    /*background-image: url(./kepek/diy-word-tools-assortment.jpg);
     background-position: center center;    
     background-size: cover;
     background-attachment: fixed;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat;*/
+
+    background-color: lightgoldenrodyellow;
+    color: brown;
 
     font-size: x-large;
+    
 }
 
 nav{
@@ -36,4 +38,8 @@ nav a:hover{
 
 .kartyak {
 
+}
+
+h1 {
+    font-family: 'Hanalei', cursive;
 }
