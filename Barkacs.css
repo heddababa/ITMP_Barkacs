@@ -39,10 +39,6 @@ nav a:hover {
     font-weight: bolder;
 }
 
-.banner {
-
-}
-
 /*nem mukodik*/
 .tartalom {
     font-family: 'Hanalei Fill', cursive;
@@ -84,10 +80,4 @@ h1 {
 .img-thumbnail {
     background-color: brown;
 }
-
-/*
-p {
-    font-size: large;
-}
-*/
 
