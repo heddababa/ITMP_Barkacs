@@ -7,6 +7,7 @@ font-family: 'Hanalei Fill', cursive;
 font-family: 'Jura', sans-serif;
 font-family: 'Open Sans', sans-serif;
 */
+.navbar {z-index: 5;}
 
 body {
     background-image: url(./kepek/diy-word-tools-assortment_fako.jpg);
