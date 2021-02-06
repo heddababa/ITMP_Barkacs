@@ -47,7 +47,7 @@ nav a:hover {
 .tartalom {
     font-family: 'Hanalei Fill', cursive;
     text-align: center;
-    font-size: 50rem; /*hatastalan az infex oldalon*/
+    /*font-size: 50rem; hatastalan az infex oldalon*/
     height: 100vh;
 }  
 
@@ -85,8 +85,9 @@ h1 {
     background-color: brown;
 }
 
+/*
 p {
     font-size: large;
 }
-
+*/
 
