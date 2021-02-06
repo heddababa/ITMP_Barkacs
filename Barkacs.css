@@ -21,19 +21,19 @@ body {
     font-size: x-large;  
 }
 
-nav{
+nav {
     background-color:  brown;
     color: lightgoldenrodyellow;
     padding: 5px;
-    position: fixed;
+    position: fixed;/*nem mmukodik*/
 }
 
-nav a{
+nav a {
     color:  lightgoldenrodyellow;
     margin: 5px;
 }
 
-nav a:hover{
+nav a:hover {
     color: lightgoldenrodyellow;
     text-decoration: none;
     font-weight: bolder;
@@ -47,8 +47,8 @@ nav a:hover{
 .tartalom {
     font-family: 'Hanalei Fill', cursive;
     text-align: center;
-    font-size: 50em; /*hatastalan az infex oldalon*/
-    min-height: 100vh;
+    font-size: 50rem; /*hatastalan az infex oldalon*/
+    height: 100vh;
 }  
 
 .footer {
